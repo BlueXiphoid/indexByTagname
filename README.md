@@ -9,3 +9,8 @@ Usage
 ````javascript
 
 $('div').indexByTagName();
+````
+
+Example
+======
+http://jsfiddle.net/nnumV/
